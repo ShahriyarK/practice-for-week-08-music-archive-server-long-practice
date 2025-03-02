@@ -1,4 +1,11 @@
 {
-  "name": "test-deploy",
-  "version": "1.0.0"
+  "name": "music-archive",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "**Finish the [API docs for a Music Archive practice] before this practice.**",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC"
 }
